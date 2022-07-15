@@ -15,9 +15,9 @@ Sıralama algoritmasıdır. Küçükten büyüğe sıralar. Şimdi de çalışma
 - [2,6,16,18,22,27] // Gördüğünüz gibi dizi küçükten büyüğe sıralandı. 
 - İşlemlerimiz bitti.
 ### Time Complexity
-- Average case: Aradığımız sayının ortada olması.
-- Worst case: Aradığımız sayının sonda olması.
-- Best case: Aradığımız sayının dizinin en başında olması.
+- Average case: Aradığımız sayının ortada olması. O(n²)
+- Worst case: Aradığımız sayının sonda olması. O(n²)
+- Best case: Aradığımız sayının dizinin en başında olması. O(n)
 - Yukarıda verilen diziyi sıraladık. 
 - Yukarıda verilen tanımlara da bakarak 18 sayısı hangi case kapsamına girer sorusunun cevabı AVARAGE case olur
 ## Insertion Sort Big-O Gösterimi
