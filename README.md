@@ -2,6 +2,9 @@
 Sıralama algoritmasıdır. Küçükten büyüğe sıralar. Şimdi de çalışma mantığını anlatalım
 ## Verilen Diziyi Insertion Sort algoritmasına göre sıralayınız.
 [22,27,16,2,18,6]
+- "-- sayı --" aradığımız küçük sayıyı ifade ediyor.
+- "- sayı -" hangi sayı küçük sayı ile yer değiştirecek onu ifade ediyor.
+- 
 - [-22-,27,16,--2--,18,6] // Dizinin içindeki en küçük elemanı buldum ve ilk elemanla yer değiştirdim.
 - [2,27,16,22,18,6]       // 1. adımdan sonra elde ettiğim dizinin son hali.
 - [2,-27-,16,22,18,--6--] // Artık dizinin içinden en küçük ikinci elemanı bulup ikinci elemanla yer değiştirmem gerek.
