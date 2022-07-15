@@ -19,3 +19,5 @@ Sıralama algoritmasıdır. Küçükten büyüğe sıralar. Şimdi de çalışma
 - Yukarıda verilen tanımlara da bakarak 18 sayısı hangi case kapsamına girer sorusunun cevabı AVARAGE case olur
 ## Insertion Sort Big-O Gösterimi
 - Big-O Gösterimi : O(n²)
+# Patika.Dev
+www.patika.dev
