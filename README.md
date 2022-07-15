@@ -18,7 +18,7 @@ Sıralama algoritmasıdır. Küçükten büyüğe sıralar. Şimdi de çalışma
 - Average case: Aradığımız sayının ortada olması. O(n²)
 - Worst case: Aradığımız sayının sonda olması. O(n²)
 - Best case: Aradığımız sayının dizinin en başında olması. O(n)
-- Yukarıda verilen diziyi sıraladık. 
+- Yukarıda verilen diziyi sıraladık. ==> [2,6,16,18,22,27] 
 - Yukarıda verilen tanımlara da bakarak 18 sayısı hangi case kapsamına girer sorusunun cevabı AVARAGE case olur
 ## Insertion Sort Big-O Gösterimi
 - Big-O Gösterimi : O(n²)
